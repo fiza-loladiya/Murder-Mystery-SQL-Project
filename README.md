@@ -1,4 +1,4 @@
-## SQL Murder Mystery Project
+## SQL Murder Mystery Project 
 
 ### Project Overview
 **Project Title:** SQL Murder Mystery — TechNova: The CEO Office Murder  
